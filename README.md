@@ -9,5 +9,11 @@
 | SSO   | wisnu.pramadhitya
 
 ZCZC Sistem Operasi 2018 Awal (1)
-ZCZC telah mencoba demo W00, meng-compile C code menggunakan make
-ZCZC telah mencoba demo W01, menjalankan dan membaca shell script
+
+ZCZC W00 telah mencoba demo W00, meng-compile C code menggunakan make
+
+ZCZC W01 telah mencoba demo W01, menjalankan dan membaca shell script
+
+ZCZC W02 done!
+
+ZCZC W03 mencoba
