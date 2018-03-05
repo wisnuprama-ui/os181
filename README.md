@@ -17,3 +17,5 @@ ZCZC W01 telah mencoba demo W01, menjalankan dan membaca shell script
 ZCZC W02 done!
 
 ZCZC W03 mencoba
+
+ZCZC W04 Ok
