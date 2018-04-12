@@ -21,3 +21,7 @@ ZCZC W03 mencoba
 ZCZC W04 Ok
 
 ZCZC W05 Yes
+
+ZCZC W06 Ok
+
+ZCZC W07 Well done
